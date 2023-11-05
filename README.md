@@ -1,1 +1,1 @@
-# convex-streamlit
+This is a fork of llanero's website (convex.streamlit.app) purely for educating myself on how it was built. I am a programming and web3 noob and I am not attempting do anything with this fork other than understand how it works. All credit goes to llanero. Thank you.
